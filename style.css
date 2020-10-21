@@ -1,0 +1,17 @@
+#main-div {
+      background-color: rgb(168, 82, 73);
+      width: 400px;
+      height: 400px;
+      margin: auto;
+}
+#game-rules {
+      margin: auto;
+}
+#name-form {
+      display: none;
+}
+.right-answer {
+      background-color: violet;
+      height: 70px;
+      width: 100 px;
+}
