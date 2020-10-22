@@ -1,5 +1,6 @@
 # quizApp---imansedky
 HTML, CSS, and vanilla JavaScript Project done with local storage 
+live demo : https://gsg-g9.github.io/quizApp---imansedky/
 
 User Stories:
 
@@ -11,4 +12,4 @@ User Stories:
 6.As a User, I want to have a button to move to the next question after answering the current question.
 7.The next question button should only appear/activate after answering the question.
 8.As a User, I should be able to see how many questions I still have to answer(2/10 meaning that I am on the second question).
-9.As a User, I should be able to see my score after finishing all of the questions.
+9.As a User, I should be able to see my score after finishing all of the quest
